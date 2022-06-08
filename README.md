@@ -16,6 +16,9 @@ Random Color Test is a simple generative art project for the web browser.
 Clone the repository and open the html page in your web browser.
 
 ## Usage
+
+![Randomly generated boxes and circles in waves](/random-color-test-screenshot.png)
+
 There is no user interaction. The application uses CSS and Javascript to generate pseudo-randomly colored divs in a repeating pattern that change shape and brightness in a loop. The colors change at pseudo-random times.
 
 ## Questions
